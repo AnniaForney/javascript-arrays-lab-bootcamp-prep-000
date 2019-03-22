@@ -29,7 +29,7 @@ function appendKitten(name) {
 
 function prependKitten(name) {
  console.log (kittens.pop());
- return kittens
+ return kittens;
 }
 
 function removeLastKitten(name) {
