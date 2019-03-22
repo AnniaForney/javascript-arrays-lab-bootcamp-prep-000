@@ -28,6 +28,7 @@ function appendKitten(name) {
 
 array = [1, 2, 4, 5]
 ...array // 1, 2, 4, 5
+[...array] // [1, 2, 4, 5]
 
 
 function prependKitten(name) {
