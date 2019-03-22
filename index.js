@@ -28,12 +28,11 @@ function appendKitten(name) {
 
 
 function prependKitten(name) {
-  var kittens = [name]
-  return console.log(kittens.pop());
+ console.log (kittens.pop());
+ return kittens
 }
 
 function removeLastKitten(name) {
-  var myarray = [name];
   
 }
 
