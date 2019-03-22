@@ -28,7 +28,7 @@ function appendKitten(name) {
 
 
 function prependKitten(name) {
- console.log (kittens.pop());
+ console.log(kittens.pop());
  return kittens
 }
 
